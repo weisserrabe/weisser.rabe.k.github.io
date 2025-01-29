@@ -1,5 +1,6 @@
 ---
 permalink: /
+
 title: "白色烏鴉"
 author_profile: true
 redirect_from: 
@@ -8,3 +9,6 @@ redirect_from:
 ---
 
 我是Weisser.Rabe,白色烏鴉
+
+K
+
