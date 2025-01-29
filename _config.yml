@@ -21,14 +21,14 @@ repository               : "weisserrabe/weisser.rabe.k.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "NERV_Logo.webp"
-  name             : "Your Sidebar Name"
+  avatar           : "NERV_Logo (1).jpg"
+  name             : "Weisser.Rabe"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "白色烏鴉"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "weisser.rabe2018@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
