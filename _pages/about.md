@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "白色烏鴉的個人網站"
+title: "白色烏鴉"
 author_profile: true
 redirect_from: 
   - /about/
